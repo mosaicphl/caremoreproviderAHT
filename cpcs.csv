@@ -1,4 +1,4 @@
-﻿LOB,Supervisor,Name ,Handled Calls ,AHT seconds,ACW Ave,Hold Ave,Transfer rate%,
+﻿LOB,Supervisor,Name,Handled,AHT,ACW Ave,Hold Ave,Transfer Rate%,Occupancy%
 CPCS,"Navarra, Mark Debby","Jordan, Mary Beth",19,685,10,,0.00%,69.34%
 CPCS,"Navarra, Mark Debby","Pajotagana, Champhagne",20,584,7,,5.00%,70.28%
 CPCS,"Navarra, Mark Debby","Camarino, Mark",26,492,8,,15.38%,70.80%
