@@ -1,4 +1,4 @@
-﻿LOB,Supervisor,Name ,Handled Calls ,AHT seconds,ACW Ave,Hold Ave,Transfer rate%,
+﻿LOB,Supervisor,Name,Handled,AHT,ACW Ave,Hold Ave,Transfer Rate%,Occupancy%
 CPCS,"Navarra, Mark Debby","Decolongon, Karl Jason",6,680,10,,0.00%,78.10%
 CPCS,"Navarra, Mark Debby","Noblezada, Chriz Vincent",4,645,10,,0.00%,72.14%
 CPCS,"Navarra, Mark Debby","Camarino, Mark",5,644,10,,0.00%,65.93%
